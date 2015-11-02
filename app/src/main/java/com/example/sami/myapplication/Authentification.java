@@ -12,7 +12,7 @@ import android.widget.EditText;
  */
 public class Authentification extends Activity {
 
-    private Button login;
+  /*private Button login;
     private EditText textlogin;
     private EditText textpass;
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,7 +38,7 @@ public class Authentification extends Activity {
                                  }
 
         );
-    }
+    }*/
 
 
 
